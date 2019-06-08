@@ -9,7 +9,7 @@ npm i -D file-loader<br>
 npm i -D html-loader<br>
 npm i -D html-webpack-inline-source-plugin<br>
 npm i -D html-webpack-plugin<br>
-npm i -D node-sass<b>
+npm i -D node-sass<br>
 npm i -D sass-loader<br>
 npm i -D style-loader<br>
 npm i -D webpack<br>
