@@ -7,17 +7,17 @@
 ### node modules to install
 
 
-npm i -D css-loader
-npm i -D file-loader
-npm i -D html-loader
-npm i -D html-webpack-inline-source-plugin
-npm i -D html-webpack-plugin
-npm i -D node-sass
-npm i -D sass-loader
-npm i -D style-loader
-npm i -D tumblr-theme-loader
-npm i -D webpack
-npm i -D webpack-cli
+npm i -D css-loader<br>
+npm i -D file-loader<br>
+npm i -D html-loader<br>
+npm i -D html-webpack-inline-source-plugin<br>
+npm i -D html-webpack-plugin<br>
+npm i -D node-sass<br>
+npm i -D sass-loader<br>
+npm i -D style-loader<br>
+npm i -D tumblr-theme-loader<br>
+npm i -D webpack<br>
+npm i -D webpack-cli<br>
 
 
 
