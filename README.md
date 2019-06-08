@@ -9,6 +9,7 @@ npm i -D file-loader<br>
 npm i -D html-loader<br>
 npm i -D html-webpack-inline-source-plugin<br>
 npm i -D html-webpack-plugin<br>
+npm i -D jquery<br>
 npm i -D node-sass<br>
 npm i -D sass-loader<br>
 npm i -D style-loader<br>
@@ -30,6 +31,7 @@ This config will:
 
 * set the Webpack mode to 'production'
 * Use /src/main.js as the entry point
+* Enables jQuery $ namespace
 * Transpile any SCSS, SASS, or CSS that is imported by the index.js
 * Pack the CSS with all the JS
 * Create a bundle.js in /dist
