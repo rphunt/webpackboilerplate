@@ -31,7 +31,7 @@ This config will:
 
 * set the Webpack mode to 'production'
 * Use /src/main.js as the entry point
-* Enables jQuery $ namespace
+* Enable jQuery $ namespace
 * Transpile any SCSS, SASS, or CSS that is imported by the index.js
 * Pack the CSS with all the JS
 * Create a bundle.js in /dist
